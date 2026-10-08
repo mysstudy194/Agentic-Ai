@@ -1,0 +1,14 @@
+[project]
+name = "agentic-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "agentspan>=0.2.0",
+    "groq>=1.7.0",
+    "openai>=3.26.0",
+    "python-dotenv>=1.2.4",
+    "tavily-agent-toolkit>=0.1.0",
+    "tavily-python>=0.8.5",
+]
